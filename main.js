@@ -60,6 +60,8 @@ class Eagle extends Animal {
     
 }
 
+
+
 const myRabbit = new Rabbit('Labi', 2);
 console.log(myRabbit.name); // Output: Labi
 console.log(myRabbit.age); // Output: 2
